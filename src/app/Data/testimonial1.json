@@ -1,0 +1,38 @@
+[
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_1.jpg",
+    "subTitle": "CTO, FinTech Solutions",
+    "title": "Michael Roberts",
+    "desc": "Their IT infrastructure overhaul transformed our operations completely. We've seen a 40% increase in system performance and significant reduction in downtime. The team's expertise and professionalism exceeded our expectations."  
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_2.jpg",
+    "subTitle": "Operations Director, Healthcare Systems",
+    "title": "Sarah Johnson",
+    "desc": "The cybersecurity solutions implemented by their team protected us from multiple potential breaches. Their proactive approach to IT security gives us peace of mind and allows us to focus on our core business operations."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_3.jpg",
+    "subTitle": "CEO, Retail Chain",
+    "title": "David Chen",
+    "desc": "Their cloud migration strategy was perfectly tailored to our business needs. The transition was seamless with minimal disruption, and we're now enjoying reduced costs and improved flexibility in our IT infrastructure."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_1.jpg",
+    "subTitle": "IT Manager, Manufacturing Corp",
+    "title": "Lisa Thompson",
+    "desc": "We've worked with several IT consultants before, but their team truly stands out. Their comprehensive approach to digital transformation has streamlined our production processes and significantly improved our operational efficiency." 
+  }, 
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_2.jpg",
+    "subTitle": "CFO, Legal Services",
+    "title": "Robert Wilson",
+    "desc": "The ROI on their managed IT services has been exceptional. We've reduced our technology-related expenses by 30% while significantly improving system reliability and performance. Their support team responds quickly to any issues."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_3.jpg",
+    "subTitle": "Director, Educational Institution",
+    "title": "Amanda Garcia",
+    "desc": "Their IT consulting services transformed our outdated systems into a modern, integrated environment. The detailed planning and flawless execution ensured a smooth transition, and their training support was excellent."
+  }  
+]

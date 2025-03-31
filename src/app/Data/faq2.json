@@ -1,0 +1,18 @@
+[
+  {  
+    "title": "01. Assessment & Strategy",
+    "desc": "Our expert team analyzes your current IT infrastructure, identifies pain points, and develops a tailored technology roadmap aligned with your business objectives"
+  },
+  {
+    "title": "02. Implementation",
+    "desc": "We deploy customized IT solutions with minimal disruption to your operations, ensuring seamless integration with your existing systems and workflows"
+  },
+  {
+     "title": "03. Monitoring & Support",
+    "desc": "Our 24/7 monitoring and dedicated support team proactively identify and resolve potential issues before they impact your business operations"
+  },
+  {
+    "title": "04. Continuous Improvement",
+   "desc": "We regularly review system performance, implement updates, and recommend enhancements to keep your technology infrastructure optimized and secure"
+ }  
+]

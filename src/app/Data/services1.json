@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "/assets/images/icon/serviceIcon3_1.svg",
+    "title": "IT Strategy Consulting",
+    "desc": "We develop comprehensive technology roadmaps aligned with your business objectives to drive growth, innovation, and competitive advantage"   
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_2.svg",
+    "title": "Network Infrastructure",
+    "desc": "Our team designs, implements, and maintains secure and scalable network solutions to ensure reliable connectivity and optimal performance"   
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_3.svg",
+    "title": "Cloud Computing Services",
+    "desc": "We help businesses migrate to and manage cloud environments, optimizing resource utilization while enhancing security and accessibility"  
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Cybersecurity Management",
+    "desc": "Our comprehensive security solutions protect your valuable data and systems from evolving threats with proactive monitoring and defense"  
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Business Process Automation",
+    "desc": "We implement custom automation solutions to streamline operations, reduce manual tasks, and improve efficiency across your organization"
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_6.svg",
+    "title": "IT Support & Maintenance",
+    "desc": "Our dedicated team provides 24/7 technical support, proactive monitoring, and regular maintenance to keep your systems running smoothly"   
+  }    
+]

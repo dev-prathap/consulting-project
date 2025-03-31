@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/images/icon/04.svg",
+    "title": "Digital Transformation",
+    "desc": "We guide businesses through comprehensive digital transformation initiatives to modernize operations, enhance customer experiences, and drive growth.",
+    "addclass": "feature-provide-box-items style-2"
+  },
+  {
+    "img": "/assets/images/icon/05.svg",
+    "title": "Data Analytics Solutions",
+    "desc": "Our data analytics services help you extract valuable insights from your business data to make informed decisions and identify new opportunities.",
+    "addclass": "feature-provide-box-items"
+  },
+  {
+    "img": "/assets/images/icon/06.svg",
+    "title": "Enterprise Software Integration",
+    "desc": "We seamlessly integrate your business applications and systems to eliminate data silos and create a unified technology ecosystem.",
+    "addclass": "feature-provide-box-items style-2"
+  } 
+]

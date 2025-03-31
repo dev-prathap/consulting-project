@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/images/icon/serviceIcon1_1.svg",
+    "title": "IT Infrastructure Management",
+    "desc": "We optimize and maintain your technology infrastructure for maximum reliability, security, and performance to ensure your business operates seamlessly",  
+    "addclass": "service-box style1 wow fadeInUp"  
+  },
+  {
+    "img": "/assets/images/icon/serviceIcon1_2.svg",
+    "title": "Cybersecurity Solutions",
+    "desc": "Our comprehensive security services protect your critical systems and data from evolving threats with advanced monitoring and proactive defense strategies",
+    "addclass": "service-box style1 wow fadeInUp"  
+  },
+  {
+    "img": "/assets/images/icon/serviceIcon1_3.svg",
+    "title": "Cloud Migration Services",
+    "desc": "We expertly guide your business through cloud adoption, implementing secure and scalable solutions that improve accessibility while reducing operational costs",
+    "addclass": "service-box style1 active wow fadeInUp"  
+  } 
+]

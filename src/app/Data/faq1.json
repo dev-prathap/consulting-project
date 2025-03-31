@@ -1,0 +1,26 @@
+[
+  {  
+    "title": "What IT services do you offer for businesses?",
+    "desc": "We provide comprehensive IT consulting services including infrastructure management, cybersecurity solutions, cloud migration, data analytics, business process automation, and 24/7 technical support tailored to your specific business needs."
+  },
+  {
+    "title": "How can IT consulting benefit my business?",
+    "desc": "Our IT consulting services can reduce operational costs, enhance security, improve efficiency, enable scalability, and provide competitive advantages through strategic technology implementation aligned with your business goals."
+  },
+  {
+     "title": "What makes your cybersecurity approach different?",
+    "desc": "We implement a proactive, multi-layered security approach that combines advanced threat detection, continuous monitoring, employee training, and regular security assessments to protect your critical systems and data from evolving threats."
+  },
+  {  
+    "title": "How do you handle cloud migration for businesses?",
+    "desc": "Our cloud migration process involves thorough assessment of your current infrastructure, designing a customized migration strategy, implementing the transition with minimal disruption, and providing ongoing optimization and support."
+  },
+  {
+    "title": "What is your approach to digital transformation?",
+    "desc": "We take a holistic approach to digital transformation, analyzing your business processes, identifying opportunities for technology enhancement, implementing customized solutions, and providing change management support to ensure successful adoption."
+  },
+  {
+     "title": "How do you ensure business continuity during IT changes?",
+    "desc": "We implement robust business continuity plans that include thorough testing, redundant systems, fallback procedures, and carefully scheduled implementations to minimize disruption while transitioning to new technology solutions."
+  }  
+]

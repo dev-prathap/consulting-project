@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/assets/images/testimoial/01.jpg",
+    "logo": "/assets/images/testimoial/logo.png",
+    "subTitle": "CIO, Enterprise Financial Group",
+    "title": "Jennifer Hayes",
+    "desc": "Their IT consulting team truly understands our business challenges. They implemented a complete digital transformation strategy that improved our operational efficiency by 35% and enhanced our cybersecurity posture. Their ongoing support has been excellent, and we consider them a vital technology partner."  
+  },
+  {
+    "img": "/assets/images/testimoial/01.jpg",
+    "logo": "/assets/images/testimoial/logo.png",
+    "subTitle": "CEO, Global Logistics Inc.",
+    "title": "Thomas Miller",
+    "desc": "The managed IT services provided by this team have completely transformed our technology infrastructure. Their proactive monitoring has eliminated system downtime, and their cloud migration expertise helped us scale operations efficiently while reducing costs. I highly recommend their services to any business."  
+  },
+  {
+    "img": "/assets/images/testimoial/01.jpg",
+    "logo": "/assets/images/testimoial/logo.png",
+    "subTitle": "Operations Director, Healthcare Solutions",
+    "title": "Sophia Rodriguez",
+    "desc": "As a healthcare provider, data security is paramount. Their cybersecurity team implemented robust protection systems that not only ensure compliance but provide real peace of mind. Their IT consulting services have helped us streamline operations and improve patient care through better technology utilization."  
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "number": "01",
+    "title": "Business Analysis",
+    "desc": "We analyze your business processes and challenges to identify technology gaps and opportunities for digital transformation" 
+  },
+  {
+    "number": "02",
+    "title": "Strategic Planning",
+    "desc": "Our team develops comprehensive IT strategies aligned with your business goals, budget considerations, and future growth plans" 
+  },
+  {
+    "number": "03",
+    "title": "Solution Implementation",
+    "desc": "We deploy customized technology solutions with minimal disruption to your operations and thorough staff training" 
+  },
+  {
+    "number": "04",
+    "title": "Ongoing Support",
+    "desc": "Our consultants provide continuous monitoring, maintenance, and optimization to ensure your technology delivers maximum ROI" 
+  }    
+]
